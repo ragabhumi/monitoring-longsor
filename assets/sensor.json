@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.5984787,
+                 -6.764554075
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:45.000",
+              "lat": -6.764554075,
+              "lon": 107.5984787,
+              "status": 2,
+              "stasiun": "Sensor 1"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.633437,
+                 -6.764071923
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.764071923,
+              "lon": 107.633437,
+              "status": 0,
+              "stasiun": "Sensor 2"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.6713085,
+                 -6.783839757
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.783839757,
+              "lon": 107.6713085,
+              "status": 2,
+              "stasiun": "Sensor 3"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.6999549,
+                 -6.802642554
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.802642554,
+              "lon": 107.6999549,
+              "status": 1,
+              "stasiun": "Sensor 4"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.7290868,
+                 -6.815177343
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.815177343,
+              "lon": 107.7290868,
+              "status": 1,
+              "stasiun": "Sensor 5"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.7242315,
+                 -6.841692162
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.841692162,
+              "lon": 107.7242315,
+              "status": 1,
+              "stasiun": "Sensor 6"
+           }
+        },
+         {
+           "type": "Feature",
+           "geometry": {
+              "type": "Point",
+              "coordinates": [
+                 107.5547809,
+                 -6.779018409
+              ]
+           },
+           "properties": {
+              "time": "2022-11-12T05:08:46.000",
+              "lat": -6.779018409,
+              "lon": 107.5547809,
+              "status": 1,
+              "stasiun": "Sensor 7"
+           }
+        }
+  ]
+}
