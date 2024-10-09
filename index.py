@@ -44,4 +44,4 @@ def display_page(pathname):
         return mainpage() # This is the "home page"
 
 if __name__ == '__main__':
-    app.run_server(debug=False, host = '127.0.0.1', url_prefix='/monitoring-longsor/')
+    app.run_server(debug=False, host = '127.0.0.1')
