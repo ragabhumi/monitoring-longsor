@@ -6,67 +6,16 @@
            "geometry": {
               "type": "Point",
               "coordinates": [
-                 107.5984787,
-                 -6.764554075
+                 107.435762,
+                  -7.172735
               ]
            },
            "properties": {
               "time": "2022-11-12T05:08:45.000",
-              "lat": -6.764554075,
-              "lon": 107.5984787,
-              "status": 2,
-              "stasiun": "Sensor 1"
-           }
-        },
-         {
-           "type": "Feature",
-           "geometry": {
-              "type": "Point",
-              "coordinates": [
-                 107.633437,
-                 -6.764071923
-              ]
-           },
-           "properties": {
-              "time": "2022-11-12T05:08:46.000",
-              "lat": -6.764071923,
-              "lon": 107.633437,
-              "status": 0,
-              "stasiun": "Sensor 2"
-           }
-        },
-         {
-           "type": "Feature",
-           "geometry": {
-              "type": "Point",
-              "coordinates": [
-                 107.6713085,
-                 -6.783839757
-              ]
-           },
-           "properties": {
-              "time": "2022-11-12T05:08:46.000",
-              "lat": -6.783839757,
-              "lon": 107.6713085,
-              "status": 2,
-              "stasiun": "Sensor 3"
-           }
-        },
-         {
-           "type": "Feature",
-           "geometry": {
-              "type": "Point",
-              "coordinates": [
-                 107.6999549,
-                 -6.802642554
-              ]
-           },
-           "properties": {
-              "time": "2022-11-12T05:08:46.000",
-              "lat": -6.802642554,
-              "lon": 107.6999549,
+              "lat":  -7.172735,
+              "lon": 107.435762,
               "status": 1,
-              "stasiun": "Sensor 4"
+              "stasiun": "Lokasi EWS 1"
            }
         },
          {
@@ -74,16 +23,16 @@
            "geometry": {
               "type": "Point",
               "coordinates": [
-                 107.7290868,
-                 -6.815177343
+                 107.443347,
+                  -7.183114
               ]
            },
            "properties": {
               "time": "2022-11-12T05:08:46.000",
-              "lat": -6.815177343,
-              "lon": 107.7290868,
+              "lat":  -7.183114,
+              "lon": 107.443347,
               "status": 1,
-              "stasiun": "Sensor 5"
+              "stasiun": "Pos Basecamp"
            }
         },
          {
@@ -91,33 +40,16 @@
            "geometry": {
               "type": "Point",
               "coordinates": [
-                 107.7242315,
-                 -6.841692162
+                 107.439478,
+                  -7.179907
               ]
            },
            "properties": {
               "time": "2022-11-12T05:08:46.000",
-              "lat": -6.841692162,
-              "lon": 107.7242315,
+              "lat":  -7.179907,
+              "lon": 107.439478,
               "status": 1,
-              "stasiun": "Sensor 6"
-           }
-        },
-         {
-           "type": "Feature",
-           "geometry": {
-              "type": "Point",
-              "coordinates": [
-                 107.5547809,
-                 -6.779018409
-              ]
-           },
-           "properties": {
-              "time": "2022-11-12T05:08:46.000",
-              "lat": -6.779018409,
-              "lon": 107.5547809,
-              "status": 1,
-              "stasiun": "Sensor 7"
+              "stasiun": "Pos PPL05"
            }
         }
   ]
