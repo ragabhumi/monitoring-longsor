@@ -113,7 +113,7 @@ def mainpage():
 
 
             html.Div([
-                dl.Map(center=[-6.779, 107.651], zoom=12, zoomControl=True, children=[
+                dl.Map(center=[-7.178791, 107.442533], zoom=15, zoomControl=True, children=[
                     # Basemap
                     dl.LayersControl(
                         [dl.BaseLayer(dl.TileLayer(url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', maxZoom=20, attribution=attribution), name="OpenStreetMap", checked= "OpenStreetMap"),
